@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Расчёт давления по ГОСТ</string>
+    
+    <string-array name="pressure_units">
+        <item>МПа</item>
+        <item>бар</item>
+        <item>атм</item>
+        <item>psi</item>
+    </string-array>
+    
+    <string-array name="temperature_units">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+    
+    <string-array name="volume_units">
+        <item>м³</item>
+        <item>л</item>
+        <item>фут³</item>
+    </string-array>
+</resources>
